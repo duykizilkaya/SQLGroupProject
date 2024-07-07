@@ -1,0 +1,4 @@
+﻿Vorname;Nachname;Email;AdresseID;Telefon;Stammkunde
+Alice Musterfrau;Musterfrau;alice.musterfrau@example.com;1;+301234567;True
+Bob Beispiel;Beispiel;bob.beispiel@example.com;11;+301234568;False
+Clara Kunde;Kunde;clara.kunde@example.com;9;+301234569;True
