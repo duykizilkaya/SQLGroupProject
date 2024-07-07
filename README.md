@@ -93,7 +93,7 @@ inventory, and customer interactions, facilitated by robust SQL procedures and t
 
 # SQL-Gruppe-Projekt 
 
-_Zweck des Projekts_:
+## _Zweck des Projekts_:
 
 Dieses Projekt, Teil unseres SQL-Bootcamps, zielt darauf ab, ein umfassendes Datenbanksystem für ein Restaurant zu entwerfen und zu implementieren.
 Das System umfasst verschiedene Komponenten wie Tabellen, Ansichten, gespeicherte Prozeduren, Funktionen und Trigger, um die Daten des 
